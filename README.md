@@ -1,6 +1,6 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo Pasqualetti&show_icons=true&theme=radical">
-<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=RubensMoura33&layout=compact&theme=radical >
+<img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo Pasqualetti&layout=compact&theme=radical >
 </div>
 
 <div style="display: inline_block"><br>
