@@ -7,6 +7,9 @@ Atualmente estou cursando Técnico em Desenvolvimento de Sistemas, no SENAI
 <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPasqualetti&layout=compact&theme=radical >
 </div>
 
+## Ferramentas e Tecnologias 🛠️
+
+
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -23,3 +26,7 @@ Atualmente estou cursando Técnico em Desenvolvimento de Sistemas, no SENAI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 </div>
+
+## Contatos 📱 
+
+<a href="https://www.linkedin.com/in/eduardo-pasqualetti/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href = "mailto:eduardopasqualetti9@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
