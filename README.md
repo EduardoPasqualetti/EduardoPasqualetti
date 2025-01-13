@@ -1,6 +1,6 @@
 ### Ola, meu nome é Eduardo 👋
 
-Atualmente estou cursando Técnico em Desenvolvimento de Sistemas, no SENAI
+🎓 Atualmente, estou cursando Data Science na FIAP e já concluí o curso técnico em Desenvolvimento de Sistemas no SENAI.
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoPasqualetti&show_icons=true&theme=radical">
